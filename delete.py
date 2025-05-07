@@ -10,3 +10,4 @@ if response.status_code == 200:
     print("Resource deleted successfully!")
 else:
     print("Error:", response.status_code)
+print("welcome")
